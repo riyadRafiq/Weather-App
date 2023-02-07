@@ -1,7 +1,7 @@
 # Weather-App
 Display instant weather of given city.
 
-A simple web application for displaying instant weather. An user need to give a city name and then weather condition of the specified city
+A simple web application for displaying instant weather. A user needs to provide a city name and as a result, the weather condition of the specified city
 is shown. This application is done using HTML, CSS and JavaScript. For showing instant weather, API was called using "OpenWeather" service.
 
 Some examples:
